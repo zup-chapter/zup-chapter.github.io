@@ -8,7 +8,7 @@ Neste espaço será disponibilizado os materiais apresentados
 ## Zup-Chapter 01 - TDD: Baby Steps
 ### Dia 30/03/2020
 
-Material apresentado por Maxwell de Albuquerque
+Material apresentado por **Maxwell de Albuquerque**
 
 [Link para apresentação](https://youtu.be/RddTM2ff9lA).
 
@@ -20,7 +20,7 @@ Material apresentado por Maxwell de Albuquerque
 ## Zup-Chapter 02 - Ferramentas para testes
 ### Dia 13/04/2020 às 18:00 (agendado)
 
-Material apresentado por Alex Sander Rodrigues de Oliveira
+Material apresentado por **Alex Sander Rodrigues de Oliveira**
 
 [Link para apresentação] (Em breve)
 
@@ -31,6 +31,6 @@ Material apresentado por Alex Sander Rodrigues de Oliveira
 
 ## Sugestões para os próximos chapters
 
-Veranildo dos Santos Veras - `POO`
+Veranildo dos Santos Veras - **POO**
 
-Renan Carlos Rodrigues - `Git Rebase x Git Merge`
+Renan Carlos Rodrigues - **Git Rebase x Git Merge**
