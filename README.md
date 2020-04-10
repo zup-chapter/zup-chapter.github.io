@@ -1,6 +1,6 @@
 ## Bem vindo ao Zup Chapter
 
-Neste espaço será disponibilizado os materiais apresentados
+Neste espaço serão disponibilizados os materiais apresentados em nossos 'meetups'
 
 
 ---
