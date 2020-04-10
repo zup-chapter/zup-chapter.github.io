@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Bem vindo ao Zup Chapter
 
-You can use the [editor on GitHub](https://github.com/zup-chapter/zup-chapter.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Neste espaço será disponibilizado os materiais apresentados
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Zup-Chapter 01 - TDD: Baby Steps
+### Dia 30/03/2020
 
-```markdown
-Syntax highlighted code block
+Material apresentado por Maxwell de Albuquerque
 
-# Header 1
-## Header 2
-### Header 3
+[Link para apresentação](https://youtu.be/RddTM2ff9lA).
 
-- Bulleted
-- List
+[Link para github](https://github.com/zup-chapter/chapter-01-tdd-baby-steps)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## Zup-Chapter 02 - Ferramentas para testes
+### Dia 13/04/2020 às 18:00 (agendado)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Material apresentado por Alex Sander Rodrigues de Oliveira
 
-### Jekyll Themes
+[Link para apresentação] (Em breve)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zup-chapter/zup-chapter.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Link para github](https://github.com/zup-chapter/chapter-02-ferramentas-testes)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+
+## Sugestões para os próximos chapters
+
+Veranildo dos Santos Veras - `POO`
+
+Renan Carlos Rodrigues - `Git Rebase x Git Merge`
