@@ -34,7 +34,7 @@ Material apresentado por **Alex Sander Rodrigues de Oliveira**
 
 Material apresentado por **Alex Sander Rodrigues de Oliveira**
 
-[Link para apresentação](Em breve)
+[Link para apresentação] (Em breve)
 
 [Link para github](https://github.com/zup-chapter/chapter-02-ferramentas-testes)
 
