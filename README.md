@@ -29,14 +29,14 @@ Material apresentado por **Alex Sander Rodrigues de Oliveira**
 
 ---
 
-## Zup-Chapter 02 - Ferramentas para testes (Parte 02)
-### Dia 15/04/2020 às 18:00 (agendado)
+## Zup-Chapter 03 - Ferramentas para testes (Parte 02)
+### Dia 15/04/2020
 
 Material apresentado por **Alex Sander Rodrigues de Oliveira**
 
-[Link para apresentação] (Em breve)
+[Link para apresentação](https://youtu.be/z87hEuv4628)
 
-[Link para github](https://github.com/zup-chapter/chapter-02-ferramentas-testes)
+[Link para github](https://github.com/zup-chapter/chapter-02-ferramentas-testes-p2)
 
 
 ---
